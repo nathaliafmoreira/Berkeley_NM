@@ -3,6 +3,8 @@ Activities - Machine Learning and Artificial Intelligence
 
 This repository contains the first hands-on activity from module 5 of the Berkely Professional Certificate in Machine Learning and Artificial Intelligence course.
 
+Jupyter notebook: https://github.com/nathaliafmoreira/Berkeley_NM/blob/main/Practical_Application_Assignment_5_1_NathaliaMoreira.ipynb
+
 In this application, the objective was to analyze a file with the acceptance of coupons by drivers and distinguish those who accept from those who do not.
 
 Two types of coupons were evaluated: bar coupons and coffee house coupons.
